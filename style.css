@@ -168,7 +168,7 @@ nav ul li a:hover {
 
 /* Hero Section */
 .hero {
-    background: linear-gradient(rgba(0, 86, 179, 0.85), rgba(0, 61, 130, 0.9)), url('https://images.unsplash.com/photo-1584982751601-97ccef0d8e39?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80');
+     background: linear-gradient(rgba(178, 34, 34, 0.85), rgba(139, 0, 0, 0.9)), url('https://images.unsplash.com/photo-1584982751601-97ccef0d8e39?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80');
     background-size: cover;
     background-position: center;
     color: var(--secondary-color);
@@ -992,4 +992,5 @@ footer {
     grid-template-columns: 1fr 1fr;
     gap: 15px;
     margin-top: 20px;
+
 }
